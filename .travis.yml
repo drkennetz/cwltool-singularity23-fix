@@ -37,5 +37,6 @@ script: tox
 branches:
   only:
     - master
+    - standard_ci_test
 notifications:
   email: false
